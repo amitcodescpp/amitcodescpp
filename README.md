@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm **Amit Khurana**, a software engineer wrangling code at Google's Bengaluru office. 🇮🇳
+I'm **Amit Khurana**, a software engineer wrangling code at Google.
 
 ## What I Do
 
